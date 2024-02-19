@@ -1,1 +1,4 @@
 theme = 'ananke'
+baseURL = 'https://zjfishy.github.io/'
+languageCode = 'en-us'
+title = 'Zach Fisher - Portfolio'
